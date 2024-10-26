@@ -25,7 +25,7 @@ This project is a proof-of-concept that gets you live details of a match and pop
 
 #### Prerequisites
 
-- Python3.x **MUST BE 64 BIT PYTHON**
+- Python3.9 **64 BIT**
 
 - Run the following command in the project's root directory (assuming you have cloned this repository) to install all other dependencies
 
