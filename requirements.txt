@@ -1,6 +1,6 @@
 Pillow
 Flask-SocketIO
-opencv-python==4.5.4.58
+opencv-python==4.7.0.72
 socketIO-client==0.7.2
 websocket-client==1.2.1
 python-socketio==5.4.0
