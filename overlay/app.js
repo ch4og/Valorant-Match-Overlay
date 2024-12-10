@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(event) { 
+    // var socket = io.connect("http://observer.local:4445/");
     var socket = io.connect("http://127.0.0.1:4445/");
     socket.on('after connect', function(message){
         console.log('After connect', message);
